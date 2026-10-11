@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/falconry/python-mimeparse/commit/76d2173365410430e46864ebcbe1c335ad3ef0e3",
       "git:hexsha": "76d2173365410430e46864ebcbe1c335ad3ef0e3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:55:19.715840+00:00"
     },
     {
       "@id": "https://repolex.ai/r/falconry/python-mimeparse/commit/3cb332e6da1cd57de9035877728c3ebae533926c",
