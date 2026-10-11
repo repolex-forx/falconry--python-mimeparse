@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "falconry",
+  "repo": "python-mimeparse",
+  "versions": [
+    {
+      "commit": "76d2173365410430e46864ebcbe1c335ad3ef0e3",
+      "parsed_at": "2026-10-11T23:52:30.434340+00:00",
+      "filetree": "filetree/76d2173365410430e46864ebcbe1c335ad3ef0e3.nq.gz",
+      "blobs": [
+        "blob/89de354795ec7a7cdab07c091029653d3618540d.nq.gz",
+        "blob/5e413e3af3cf9af4054f9c0818e48504bb76ef0d.nq.gz",
+        "blob/38186f505f2aa1df0d02cac8897be5bfb0b4c79d.nq.gz",
+        "blob/3da6188887847354bc240d0fd3b5b40d1023c7e1.nq.gz",
+        "blob/2ceee397eb4bf9f8c6bb64cb2d6ce6ec49922399.nq.gz",
+        "blob/e2c32535cc366d77e936f57ed1559d1c04262ff7.nq.gz",
+        "blob/a218b5529476d84d3749dc9a433b0b5b72ec1586.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/3bdb9ab41983e521aa511e3a66e145584ae94deb.nq.gz",
+        "blob/91dde29e96f591056b4b57fbe088ea5ddf87f9a9.nq.gz",
+        "blob/d4c368307baf771705f88df2e72b0e19754a966e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
